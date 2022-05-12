@@ -1,5 +1,5 @@
 # Se llamar las librerias
-from dash import Dash, html, dcc 
+from dash import Dash, html, dcc
 import pandas as pd
 import plotly.graph_objs as go
 
