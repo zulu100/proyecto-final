@@ -1,7 +1,7 @@
 # Se llamar las librerias
 from dash import Dash, html, dcc 
-import plotly.graph objs as go
 import pandas as pd
+import plotly.graph objs as go
 
 # Declarar objetos principales
 app = Dash(__name__)
